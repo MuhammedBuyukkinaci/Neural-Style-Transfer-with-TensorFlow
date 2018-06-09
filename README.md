@@ -16,6 +16,9 @@ You should download pre-trained VGG-16 named as ```imagenet-vgg-verydeep-16```  
 ![alt text](https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/outputs/vgg16_where.png) 
 
 # Training
+```https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow.git```
+
+```cd ./Neural-Style-Transfer-with-TensorFlow```
 
 ```python neural_style_transfer.py ```
 
