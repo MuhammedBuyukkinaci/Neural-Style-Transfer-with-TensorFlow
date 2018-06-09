@@ -22,9 +22,7 @@ Download .ipynb file from [here](https://github.com/MuhammedBuyukkinaci/My-Jupyt
 # Data
 Content Image             |  Style Image          |  Generated Image      |GIF for 2000 iterations             
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/content_image.jpg" width="200" height="200">  | <img src="https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/style_image.jpg" width="200" height="200">
-![](https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/content_image.jpg)  |  ![](https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/style_image.jpg) |  ![](https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/generated_image_first.jpg)|  ![](https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/gif.gif)
-
+<img src="https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/content_image.jpg" width="200" height="200">  | <img src="https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/style_image.jpg" width="200" height="200">  | <img src="https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/generated_image_first.jpg" width="200" height="200">  | <img src="https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/gif.gif" width="200" height="200">
 
 # Architecture
 
