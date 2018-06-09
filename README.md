@@ -32,7 +32,7 @@ Content Image             |  Style Image          |  Generated Image After 2000 
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/content_image2.jpg" width="200" height="200">  | <img src="https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/style_image2.jpg" width="200" height="200">  | <img src="https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/generated_image2.jpg" width="200" height="200">  | <img src="https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/gif2.gif" width="200" height="200">
 
-The below content image belongs to one of my friends, [Umut Başdemir](https://www.linkedin.com/in/umutbasdemir/). He is a Business Development Specialist at Samsung Electronics.
+The below content image belongs to one of my friends, [Umut Başdemir](https://www.linkedin.com/in/umutbasdemir/). He is a Business Development Specialist at Samsung.
 
 Content Image             |  Style Image          |  Generated Image After 2000 iterations      |GIF during 2000 iterations             
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
