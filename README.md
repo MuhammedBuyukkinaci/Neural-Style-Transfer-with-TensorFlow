@@ -48,4 +48,14 @@ Content Image             |  Style Image          |  Generated Image After 2000 
 <img src="https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/outputs/content_image3.jpg" width="200" height="200">  | <img src="https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/outputs/style_image3.jpg" width="200" height="200">  | <img src="https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/outputs/generated_image3.jpg" width="200" height="200">  | <img src="https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/outputs/gif3.gif" width="200" height="200">
 
 
-The above content image belongs to one of my friends, [Umut Başdemir](https://www.linkedin.com/in/umutbasdemir/). He is a Business Development Specialist at Samsung.
+The last content image belongs to one of my friends, [Umut Başdemir](https://www.linkedin.com/in/umutbasdemir/). He is a Business Development Specialist at Samsung.
+
+# References
+
+- https://www.youtube.com/watch?v=Re2C9INXCNc&index=38&list=PLBAGcD3siRDjBU8sKRk0zX9pMz9qeVxud
+
+- https://gist.github.com/prajjwal1/8bc39c430c8a0303c1430b02207b09f4
+
+- https://github.com/harsha1601/StyleTransfer/blob/master/cnn-st.ipynb
+
+- https://github.com/nestor94/apptist/blob/master/model/style_transfer_model.py.ipynb
