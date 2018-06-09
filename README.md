@@ -11,7 +11,7 @@ or
 
 # Pre-trained VGG-16 Network
 
-I used VGG-16 network for this project. You should download pre-trained VGG-16 named as ```imagenet-vgg-verydeep-16```  from [here](http://www.vlfeat.org/matconvnet/pretrained/#imagenet-ilsvrc-classification) 
+You should download pre-trained VGG-16 named as ```imagenet-vgg-verydeep-16```  from [here](http://www.vlfeat.org/matconvnet/pretrained/#imagenet-ilsvrc-classification).
 
 # Training
 
