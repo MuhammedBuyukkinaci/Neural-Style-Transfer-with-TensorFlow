@@ -52,6 +52,8 @@ The last content image belongs to one of my friends, [Umut Başdemir](https://ww
 
 # References
 
+- https://www.coursera.org/specializations/deep-learning
+
 - https://www.youtube.com/watch?v=Re2C9INXCNc&index=38&list=PLBAGcD3siRDjBU8sKRk0zX9pMz9qeVxud
 
 - https://gist.github.com/prajjwal1/8bc39c430c8a0303c1430b02207b09f4
