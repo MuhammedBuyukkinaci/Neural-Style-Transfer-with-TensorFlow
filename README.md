@@ -19,26 +19,26 @@ You should download VGG-16 (491 MB) named as ```imagenet-vgg-verydeep-16```  fro
 
 # Cloning and Training
 
-```git clone https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow.git```
+```
+git clone https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow.git
 
-```cd ./Neural-Style-Transfer-with-TensorFlow```
+cd ./Neural-Style-Transfer-with-TensorFlow
 
-To train with default content image, default style image and other default parameters, run:
-
-```python neural_style_transfer.py ```
+python neural_style_transfer.py
+```
 
 To train with your parameters, run a command similar to below command(for more details, check out Arguments for Terminal section ):
 
 ```python neural_style_transfer.py -c_i changed_content.jpg -s_i changed_style.jpg -c_w 25 -s_w 25 -n_i 1000 ```
 
 # Arguments for Terminal
-- c_i: Name of Content image. It must be string. Example: changed_content.jpg, default_content.jpg , content_image.png
+- c_i: Name of Content image. It must be string. Example: changed_content.jpg, default_content.jpg , content_image.png .
 
-- s_i: Name of Style image. It must be string. Example: changed_style.jpg , default_style.jpg , style_image.png
+- s_i: Name of Style image. It must be string. Example: changed_style.jpg , default_style.jpg , style_image.png .
 
-- c_w: Weight of Content image in loss function. It must be integer. Example: 5 , 20 , 50
+- c_w: Weight of Content image in loss function. It must be integer. Example: 5 , 20 , 50 .
 
-- s_w: Weight of Style image in loss function. It must be integer. Example: 10 , 20 , 40
+- s_w: Weight of Style image in loss function. It must be integer. Example: 10 , 20 , 40 .
 
 - s_w: How many iterations to train. It must be integer. Example: 500 , 1000 , 2000
 # Notebook
