@@ -21,7 +21,7 @@ You should download pre-trained VGG-16 named as ```imagenet-vgg-verydeep-16```  
 
 # Notebook
 
-Download .ipynb file from [here](https://github.com/MuhammedBuyukkinaci/My-Jupyter-Files-1/blob/master/tensorflow_binary_image_classification2.ipynb) and run:
+Download .ipynb file from [here](https://github.com/MuhammedBuyukkinaci/My-Jupyter-Files/blob/master/neural_style_transfer.ipynb) and run:
 
 ```jupyter lab ``` or ```jupyter notebook ```
 
