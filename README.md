@@ -11,7 +11,7 @@ or
 
 # Pre-trained VGG-16 Network ( Warning : 491 MB)
 
-Download VGG-16 named as ```imagenet-vgg-verydeep-16```  from [here](http://www.vlfeat.org/matconvnet/pretrained/#imagenet-ilsvrc-classification) and put it in Neural-Style-Transfer-with-TensorFlow folder.
+Download VGG-16 named as ```imagenet-vgg-verydeep-16```  from [here](http://www.vlfeat.org/matconvnet/pretrained/#imagenet-ilsvrc-classification) and put it in ### Neural-Style-Transfer-with-TensorFlow folder.
 
 ![alt text](https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/pictures/vgg16_where.png) 
 
@@ -27,7 +27,7 @@ cd ./Neural-Style-Transfer-with-TensorFlow
 python neural_style_transfer.py
 ```
 
-To train with your parameters, run a command similar to below command(for more details, check out Arguments for Terminal section ):
+To train with your parameters, run a command alike below command: (Details in Arguments for Terminal section)
 
 ```python neural_style_transfer.py -c_i changed_content.jpg -s_i changed_style.jpg -c_w 25 -s_w 25 -n_i 1000 ```
 
