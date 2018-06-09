@@ -9,9 +9,9 @@ or
 
 ```pip3 install -r requirements.txt```
 
-# Pre-trained VGG-16 Network
+# Pre-trained VGG-16 Network ( Warning : 491 MB)
 
-Download VGG-16 (491 MB) named as ```imagenet-vgg-verydeep-16```  from [here](http://www.vlfeat.org/matconvnet/pretrained/#imagenet-ilsvrc-classification) and put it in Neural-Style-Transfer-with-TensorFlow folder.
+Download VGG-16 named as ```imagenet-vgg-verydeep-16```  from [here](http://www.vlfeat.org/matconvnet/pretrained/#imagenet-ilsvrc-classification) and put it in Neural-Style-Transfer-with-TensorFlow folder.
 
 ![alt text](https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/pictures/vgg16_where.png) 
 
