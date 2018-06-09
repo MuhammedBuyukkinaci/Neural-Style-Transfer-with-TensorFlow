@@ -15,12 +15,17 @@ You should download VGG-16 (491 MB) named as ```imagenet-vgg-verydeep-16```  fro
 
 ![alt text](https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/pictures/vgg16_where.png) 
 
-# Training
+# Cloning and Training on Terminal
 ```git clone https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow.git```
 
 ```cd ./Neural-Style-Transfer-with-TensorFlow```
 
+To train with default content image, default style image and other default parameters, run:
 ```python neural_style_transfer.py ```
+
+To train with your content image, your style image and other parameters, run a command similar to below command:
+```python neural_style_transfer.py --content_image changed_content.jpg --style_image changed_style.jpg --content_weight 25 --style_weight 25 --number_iterations 1000 ```
+
 
 # Notebook
 
