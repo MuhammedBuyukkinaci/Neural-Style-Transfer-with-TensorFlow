@@ -22,7 +22,7 @@ Download .ipynb file from [here](https://github.com/MuhammedBuyukkinaci/My-Jupyt
 # Data
 Content Image             |  Style Image          |  Generated Image      |GIF for 2000 iterations             
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/content_image.jpg =512x512)  |  ![](https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/style_image.jpg =512x512) |  ![](https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/generated_image_first.jpg =512x512)|  ![](https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/gif.gif =512x512)
+![](https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/content_image.jpg | width=100)  |  ![](https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/style_image.jpg =512x512) |  ![](https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/generated_image_first.jpg =512x512)|  ![](https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/gif.gif =512x512)
 
 
 # Architecture
