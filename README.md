@@ -20,9 +20,9 @@ Download .ipynb file from [here](https://github.com/MuhammedBuyukkinaci/My-Jupyt
 ```jupyter lab ``` or ```jupyter notebook ```
 
 # Data
-Content Image             |  Style Image          |  Generated Image
-:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/content_image.jpg)  |  ![](https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/style_image.jpg) |  ![](https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/generated_image_first.jpg)
+Content Image             |  Style Image          |  Generated Image      |GIF for 2000 iterations             
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/content_image.jpg)  |  ![](https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/style_image.jpg) |  ![](https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/generated_image_first.jpg)|  ![](https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/gif.gif)
 
 
 # Architecture
