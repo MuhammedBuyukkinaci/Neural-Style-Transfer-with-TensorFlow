@@ -11,7 +11,9 @@ or
 
 # Pre-trained VGG-16 Network
 
-You should download pre-trained VGG-16 named as ```imagenet-vgg-verydeep-16```  from [here](http://www.vlfeat.org/matconvnet/pretrained/#imagenet-ilsvrc-classification).
+You should download pre-trained VGG-16 named as ```imagenet-vgg-verydeep-16```  from [this link](http://www.vlfeat.org/matconvnet/pretrained/#imagenet-ilsvrc-classification).
+
+![alt text](https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/outputs/vgg16_where.png) 
 
 # Training
 
