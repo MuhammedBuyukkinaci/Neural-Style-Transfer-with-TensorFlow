@@ -11,7 +11,7 @@ or
 
 # Pre-trained VGG-16 Network ( Warning : 491 MB)
 
-Download VGG-16 named as ```imagenet-vgg-verydeep-16```  from [here](http://www.vlfeat.org/matconvnet/pretrained/#imagenet-ilsvrc-classification) and put it in ### Neural-Style-Transfer-with-TensorFlow folder.
+Download VGG-16 named as ```imagenet-vgg-verydeep-16``` from [here](http://www.vlfeat.org/matconvnet/pretrained/#imagenet-ilsvrc-classification).Put it in _Neural-Style-Transfer-with-TensorFlow_ folder.
 
 ![alt text](https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/pictures/vgg16_where.png) 
 
