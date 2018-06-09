@@ -24,6 +24,7 @@ To train with default content image, default style image and other default param
 ```python neural_style_transfer.py ```
 
 To train with your content image, your style image and other parameters, run a command similar to below command:
+
 ```python neural_style_transfer.py --content_image changed_content.jpg --style_image changed_style.jpg --content_weight 25 --style_weight 25 --number_iterations 1000 ```
 
 
