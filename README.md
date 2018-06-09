@@ -40,7 +40,7 @@ To train with your parameters, run a command alike below command: (Details in Ar
 
 - s_w: Weight of Style image in loss function. It must be integer. Example: 10 , 20 , 40 .
 
-- s_w: How many iterations to train. It must be integer. Example: 500 , 1000 , 2000
+- s_w: How many iterations to train. It must be integer. Example: 500 , 1000 , 2000 .
 # Notebook
 
 Download .ipynb file from [here](https://github.com/MuhammedBuyukkinaci/My-Jupyter-Files/blob/master/neural_style_transfer.ipynb) and run:
