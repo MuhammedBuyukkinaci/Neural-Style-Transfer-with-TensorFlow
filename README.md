@@ -1,8 +1,6 @@
 # Neural Style Transfer with TensorFlow
 Implementation of Neural Style Transfer algorithm with TensorFlow in Python 3.
-# TensorFlow Binary Image Classification using CNN's
-This is a binary image classification project using Convolutional Neural Networks and TensorFlow API (no Keras) on Python 3.
-[Read all story in Turkish](https://medium.com/@mubuyuk51/tensorflow-i%CC%87le-i%CC%87kili-binary-resim-s%C4%B1n%C4%B1fland%C4%B1rma-69b15085f92c).
+
 # Dependencies
 
 ```pip install -r requirements.txt```
@@ -22,14 +20,9 @@ Download .ipynb file from [here](https://github.com/MuhammedBuyukkinaci/My-Jupyt
 ```jupyter lab ``` or ```jupyter notebook ```
 
 # Data
-No MNIST or CIFAR-10.
-
-This is a repository containing datasets of 6400 training images and 1243 testing images.No problematic image.
-
-Download .rar extension version from [here](
-https://www.dropbox.com/s/ezmsiz0p364shxz/datasets.rar?dl=0) or .zip extension version from [here](
-https://www.dropbox.com/s/cx6f238aoxjem6j/datasets_zip.zip?dl=0).
-It is 101 MB.
+Content Image             |  Style Image          |  Generated Image
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/content_image.jpg)  |  ![](https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/style_image.jpg) |  ![](https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/generated_image_first.jpg)
 
 
 # Architecture
