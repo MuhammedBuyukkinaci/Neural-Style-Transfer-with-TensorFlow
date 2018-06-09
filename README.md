@@ -19,8 +19,8 @@ Download .ipynb file from [here](https://github.com/MuhammedBuyukkinaci/My-Jupyt
 
 ```jupyter lab ``` or ```jupyter notebook ```
 
-# Data
-Content Image             |  Style Image          |  Generated Image after 2000 iterations      |GIF during 2000 iterations             
+# Outputs
+Content Image             |  Style Image          |  Generated Image After 2000 iterations      |GIF during 2000 iterations             
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/content_image.jpg" width="200" height="200">  | <img src="https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/style_image.jpg" width="200" height="200">  | <img src="https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/generated_image_first.jpg" width="200" height="200">  | <img src="https://github.com/MuhammedBuyukkinaci/Neural-Style-Transfer-with-TensorFlow/blob/master/gif.gif" width="200" height="200">
 
